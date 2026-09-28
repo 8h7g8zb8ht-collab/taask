@@ -1,0 +1,6 @@
+{
+  "name": "Taskflow - Simple Task Manager",
+  "description": "A clean, modern task management application featuring user authentication, personal task dashboard, completion tracking, and mobile-responsive layout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
